@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#blue {
+  font-size: 36px;
+  color: blue;
+  margin: 10px;
+}
+.pink {
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  background-color: rgb(255, 192, 192);
+  margin: 10px;
+}
+.cool {
+  font-size: 36px;
+}
+
+#green {
+  background-color: lightgreen;
+  font-weight: 700;
+  font-size: 24px;
+  margin: 10px;
+}
